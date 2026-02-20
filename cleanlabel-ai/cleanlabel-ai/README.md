@@ -192,4 +192,4 @@ cleanlabel-ai/
 
 ---
 
-*Made with 🌿 CleanLabel AI*
+*Made with 🌿 CleanLabel AI* 
